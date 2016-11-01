@@ -1,3 +1,5 @@
+#sample code for SQLite was provided by the course & used for this assignemnt
+
 import sqlite3
 import re
 
